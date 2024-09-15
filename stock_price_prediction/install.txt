@@ -1,0 +1,3 @@
+pip install yfinance
+pip install tensorflow
+pip install keras
